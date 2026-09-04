@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "إذا استخدمت الكود أو التصورات الأصلية في هذا المستودع، يرجى الاستشهاد بهذا المشروع."
+title: "رؤية الجانب البعيد من الشمس: تصورات تفاعلية ومواد مصاحبة"
+type: software
+version: "1.0.0"
+date-released: "2026-09-04"
+
+authors:
+  - family-names: "Hamada"
+    given-names: "Amr"
+    affiliation: "National Solar Observatory, Boulder, Colorado, USA"
+
+abstract: >
+  مجموعة من دفاتر Jupyter والرسوم التفاعلية والفيديوهات والمواد البصرية
+  المطورة لأغراض التواصل العلمي باللغة العربية حول الجانب البعيد من الشمس.
+
+keywords:
+  - الشمس
+  - الجانب البعيد من الشمس
+  - الزلازل الشمسية
+  - الطقس الفضائي
+  - Solar Orbiter
+  - STEREO
+  - SDO
+  - الفيزياء الشمسية
+
+repository-code: "https://github.com/YOUR_GITHUB_USERNAME/seeing-the-solar-farside"
+
+references:
+  - type: article
+    title: "Polarity-resolved far-side magnetograms based on helioseismic measurements"
+    authors:
+      - family-names: "Hamada"
+        given-names: "Amr"
+      - family-names: "Jain"
+        given-names: "Kiran"
+      - family-names: "Strecker"
+        given-names: "Hanna"
+      - family-names: "Lindsey"
+        given-names: "Charles"
+      - family-names: "Orozco Suárez"
+        given-names: "David"
+    journal: "Scientific Reports"
+    year: 2026
+    volume: 16
+    doi: "10.1038/s41598-026-42917-x"
